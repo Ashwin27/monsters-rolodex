@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 import { CardList } from './components/card-list/card-list.component';
 import { SearchBox } from './components/search-box/search-box.component';
 
-import MONSTERS_DATA from './monsters.data'
+import MONSTERS_DATA from './monsters.data';
 
 import './App.css';
 
